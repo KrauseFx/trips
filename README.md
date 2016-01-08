@@ -17,4 +17,6 @@ Planned | Vienna, Austria | 2016-04-23 | 2016-05-01 | [MarketingInnovationDay](h
 Where | Purpose
 ------|--------
 Oslo, Norway | Meet @lacostej
- 
+Hanoi, Vietnam | Travel
+Seoul, Korea | Travel
+Hong Kong | Travel
