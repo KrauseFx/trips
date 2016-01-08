@@ -1,0 +1,6 @@
+actions_path 'actions'
+
+desc "Update calendar"
+lane :calendar do |options|
+  trip_calendar_update(api_token: "HELLO")
+end
