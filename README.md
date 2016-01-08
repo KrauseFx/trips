@@ -1,6 +1,12 @@
-# trips
+# [@KrauseFx](https://twitter.com/KrauseFx) trips
+
 My upcoming trips
 
- Status | When | Where | Purpose
- ------|-----|-----|--------
- Unconfirmed | Future | Oslo, Norway | Take a beer, hack fastlane
+
+
+ Status | Where | From | To | Purpose
+ -------|-------|------|----|---------
+ Confirmed | San Francisco | 2016-01-10 | 2016-02-07 | Living for a month
+ -------|-------|------|----|---------
+ Unconfirmed | Oslo, Norway | - | - | Meet @lacostej
+ 
