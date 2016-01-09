@@ -38,7 +38,7 @@ module Fastlane
         purpose = cells[4]
         text = CGI.escape("Fastlane / Felix @ #{where} #{purpose}")
         calendar_link = "https://www.google.com/calendar/event?action=TEMPLATE&text=#{text}&dates=#{from}/#{to}&details=&location=#{where}&trp=true&sprop=&sprop=name:fastlane"
-        "[Add to calendar](#{calendar_link})"
+        "[Save](#{calendar_link})"
       end
 
       def self.to_cal_date(date, time)
