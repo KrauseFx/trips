@@ -37,9 +37,8 @@ module Fastlane
         to = to_cal_date(cells[3], '20') # :)
         purpose = cells[4]
         text = CGI.escape("Fastlane / Felix @ #{where} #{purpose}")
-        img_url = 'https://www.google.com/calendar/images/ext/gc_button1.gif'
         calendar_link = "https://www.google.com/calendar/event?action=TEMPLATE&text=#{text}&dates=#{from}/#{to}&details=&location=#{where}&trp=true&sprop=&sprop=name:fastlane"
-        "[![Add to calendar](#{img_url})](#{calendar_link})"
+        "[Add to calendar](#{calendar_link})"
       end
 
       def self.to_cal_date(date, time)
