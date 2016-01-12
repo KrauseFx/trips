@@ -4,7 +4,7 @@
 
 Status | Where | From | To | Purpose | Cal
 -------|-------|------|----|---------|---------
-Confirmed | Ho Chin Minh City, Vietnam | 2016-01-06 | 2016-01-10 | Travels | [Save](https://www.google.com/calendar/event?action=TEMPLATE&text=Fastlane+%2F+Felix+%40+Ho+Chin+Minh+City%2C+Vietnam+Travels&dates=20160106T080000Z/20160110T200000Z&details=&location=Ho Chin Minh City, Vietnam&trp=true&sprop=&sprop=name:fastlane)
+Confirmed | Ho Chin Minh, Vietnam | 2016-01-06 | 2016-01-10 | Travels | [Save](https://www.google.com/calendar/event?action=TEMPLATE&text=Fastlane+%2F+Felix+%40+Ho+Chin+Minh+City%2C+Vietnam+Travels&dates=20160106T080000Z/20160110T200000Z&details=&location=Ho Chin Minh City, Vietnam&trp=true&sprop=&sprop=name:fastlane)
 Confirmed | San Francisco, USA | 2016-01-10 | 2016-02-07 | Living at one place like a grown up | [Save](https://www.google.com/calendar/event?action=TEMPLATE&text=Fastlane+%2F+Felix+%40+San+Francisco%2C+USA+Living+at+one+place+like+a+grown+up&dates=20160110T080000Z/20160207T200000Z&details=&location=San Francisco, USA&trp=true&sprop=&sprop=name:fastlane)
 Planned | Boston, USA | 2016-02-08 | 2016-02-13 | Twitter Office Boston | [Save](https://www.google.com/calendar/event?action=TEMPLATE&text=Fastlane+%2F+Felix+%40+Boston%2C+USA+Twitter+Office+Boston&dates=20160208T080000Z/20160213T200000Z&details=&location=Boston, USA&trp=true&sprop=&sprop=name:fastlane)
 Planned | New York City, USA | 2016-02-13 | 2016-02-21 | Twitter Office NYC | [Save](https://www.google.com/calendar/event?action=TEMPLATE&text=Fastlane+%2F+Felix+%40+New+York+City%2C+USA+Twitter+Office+NYC&dates=20160213T080000Z/20160221T200000Z&details=&location=New York City, USA&trp=true&sprop=&sprop=name:fastlane)
