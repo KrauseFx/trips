@@ -1,3 +1,7 @@
+**Deprecated**, visit https://nomadtrips.co/KrauseFx instead
+
+----
+
 # [@KrauseFx](https://twitter.com/KrauseFx) trips
 
 ### My upcoming trips
